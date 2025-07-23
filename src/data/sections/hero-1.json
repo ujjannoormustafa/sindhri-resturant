@@ -1,0 +1,19 @@
+{
+    "image": {
+       "url": "/img/illustrations/girl.png",
+       "alt": "girl"
+    },
+    "subtitle": "Hi, new friend!",
+    "title": "We do not <span>cook</span>, <br>we <span>create</span> your <br>emotions!",
+    "description": "Every dish we serve is a story — crafted with passion, flavor, and love.<br>It's not just food, it's a feeling you'll never forget.",
+    "button1": {
+        "link": "/menu",
+        "icon": "/img/ui/icons/menu.svg",
+        "label": "Our menu"
+    },
+    "button2": {
+        "link": "/about",
+        "icon": "/img/ui/icons/arrow.svg",
+        "label": "About us"
+    }
+}

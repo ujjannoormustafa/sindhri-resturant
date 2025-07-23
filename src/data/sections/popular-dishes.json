@@ -1,0 +1,42 @@
+{
+    "title": "Our <span>Most Popular</span> Dishes",
+    "description": "Discover the dishes our guests love the most<br>and experience the flavors that keep them coming back.",
+    "button": {
+        "link": "/menu",
+        "label": "View full menu"
+    },
+    "items": [
+        {
+            "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=300&fit=crop",
+            "title": "Grilled Salmon",
+            "price": "24",
+            "currency": "$",
+            "rating": 5,
+            "text": "Fresh Atlantic salmon grilled to perfection with herbs and lemon butter sauce."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400&h=300&fit=crop",
+            "title": "Beef Tenderloin",
+            "price": "32",
+            "currency": "$",
+            "rating": 5,
+            "text": "Premium cut beef tenderloin with red wine reduction and roasted vegetables."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=300&fit=crop",
+            "title": "Truffle Pasta",
+            "price": "18",
+            "currency": "$",
+            "rating": 5,
+            "text": "Homemade fettuccine with black truffle, parmesan, and fresh herbs."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400&h=300&fit=crop",
+            "title": "Caesar Salad",
+            "price": "12",
+            "currency": "$",
+            "rating": 5,
+            "text": "Classic Caesar salad with romaine lettuce, parmesan, and house-made dressing."
+        }
+    ]
+} 

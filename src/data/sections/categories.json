@@ -1,0 +1,34 @@
+{
+    "title": "What do you <span>like today?</span>",
+    "description": "Discover our carefully curated menu featuring the finest ingredients<br>and authentic flavors that will transport your taste buds.",
+    "button": {
+        "link": "/shop",
+        "label": "Explore our menu"
+    },
+    "items": [
+        {
+            "image": "/img/categories/1.png",
+            "title": "Starters",
+            "text": "Begin your culinary journey with our exquisite appetizers and light bites.",
+            "link": "/products"
+        },
+        {
+            "image": "/img/categories/2.png",
+            "title": "Main dishes",
+            "text": "Savor our signature entrees crafted with premium ingredients and expert technique.",
+            "link": "/products"
+        },
+        {
+            "image": "/img/categories/3.png",
+            "title": "Drinks",
+            "text": "Complement your meal with our selection of fine wines, craft cocktails, and beverages.",
+            "link": "/products"
+        },
+        {
+            "image": "/img/categories/4.png",
+            "title": "Desserts",
+            "text": "End your dining experience with our decadent desserts and sweet creations.",
+            "link": "/products"
+        }
+    ]
+}

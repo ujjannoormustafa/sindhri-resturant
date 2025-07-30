@@ -11,8 +11,6 @@ import TeamSection from "@components/sections/Team";
 import CallToActionSection from "@components/sections/CallToAction";
 import PopularDishesSection from "@components/sections/PopularDishes";
 import MissionSection from "@components/sections/Mission";
-import VisionSection from "@components/sections/Vision";
-import HistorySection from "@components/sections/History";
 
 const ProductsSlider = dynamic( () => import("@components/sliders/Products"), { ssr: false } );
 
@@ -28,12 +26,10 @@ async function Home1() {
   return (
     <>
       <HeroSection type={1} />
-      <AboutSection />
+      <MissionSection />
+      {/* <AboutSection /> */}
       <CategoriesSection />
       <PopularDishesSection />
-      <MissionSection />
-      <VisionSection />
-      <HistorySection />
       {/* <ProductsSlider items={Products.collection['popular']} slidesPerView={4} /> */}
       {/* <TeamSection /> */}
       {/* <CallToActionSection /> */}

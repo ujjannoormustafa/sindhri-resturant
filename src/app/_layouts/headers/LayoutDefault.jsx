@@ -41,17 +41,17 @@ const DefaultHeader = () => {
   return (
     <>
         {/* top bar */}
-        <div className="sb-top-bar-frame">
+        <div className="sb-top-bar-frame" style={{ backgroundColor : 'balck' }}>
             <div className="sb-top-bar-bg"></div>
             <div className="container">
                 <div className="sb-top-bar">
                 <Link href="/" className="sb-logo-frame">
                     {/* logo img */}
-                    {/* <img src={AppData.header.logo.image} alt={AppData.header.logo.alt} /> */}
-                    <div className="sb-text-logo" style={{ textAlign: 'center' }}>
-                        <h6 className="sb-logo-title" style={{ fontSize: '32px', fontWeight: '600', margin: '0', lineHeight: '1.2', color: '#000000' }}>Sindhri</h6>
-                        <p className="sb-logo-subtitle" style={{ fontSize: '18px', margin: '0', lineHeight: '1.2', color: '#000000', textTransform: 'lowercase' }}>Restaurant</p>
-                    </div>
+                    <img src="/img/menu/logo.jpeg" style={{ width: '60%' }} alt={AppData.header.logo.alt} />
+                    {/* <div className="sb-text-logo" style={{ textAlign: 'center' }}>
+                        <h6 className="sb-logo-title" style={{ fontSize: '32px', fontWeight: '600', margin: '0', lineHeight: '1.2', color: '#ECC402' }}>Sindhri</h6>
+                        <p className="sb-logo-subtitle" style={{ fontSize: '18px', margin: '0', lineHeight: '1.2', color: '#000000', textTransform: 'lowercase', fontWeight: '100', textAlign: 'left' }}>Restaurant</p>
+                    </div> */}
                 </Link>
                 {/* menu */}
                 <div className="sb-right-side">

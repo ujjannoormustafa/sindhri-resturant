@@ -1,34 +1,59 @@
 {
-    "title": "What do you <span>like today?</span>",
-    "description": "Discover our carefully curated menu featuring the finest ingredients<br>and authentic flavors that will transport your taste buds.",
+    "title": "Sindhri <span>Services</span>",
+    "description": "Experience the complete Sindhri experience with our diverse range of services<br>from traditional dining to convenient takeaway and delivery options.",
     "button": {
-        "link": "/shop",
-        "label": "Explore our menu"
+        "link": "/menu",
+        "label": "View all services"
     },
     "items": [
         {
             "image": "/img/categories/1.png",
-            "title": "Starters",
-            "text": "Begin your culinary journey with our exquisite appetizers and light bites.",
-            "link": "/products"
+            "title": "Sindhri Dessi 24/7",
+            "text": "Coming soon - 24/7 authentic Sindhi cuisine",
+            "link": "/products",
+            "icon": "fas fa-clock"
         },
         {
             "image": "/img/categories/2.png",
-            "title": "Main dishes",
-            "text": "Savor our signature entrees crafted with premium ingredients and expert technique.",
-            "link": "/products"
+            "title": "Sindhri Executive",
+            "text": "Premium dining experience with exclusive menu",
+            "link": "/products",
+            "icon": "fas fa-crown"
         },
         {
             "image": "/img/categories/3.png",
-            "title": "Drinks",
-            "text": "Complement your meal with our selection of fine wines, craft cocktails, and beverages.",
-            "link": "/products"
+            "title": "Sindhri Sweets",
+            "text": "Coming soon - Traditional Sindhi sweets and desserts",
+            "link": "/products",
+            "icon": "fas fa-cookie-bite"
         },
         {
             "image": "/img/categories/4.png",
-            "title": "Desserts",
-            "text": "End your dining experience with our decadent desserts and sweet creations.",
-            "link": "/products"
+            "title": "Sindhri Bakers",
+            "text": "Coming soon - Fresh baked goods and pastries",
+            "link": "/products",
+            "icon": "fas fa-birthday-cake"
+        },
+        {
+            "image": "/img/categories/1.png",
+            "title": "Dining",
+            "text": "Enjoy authentic Sindhi cuisine in our welcoming restaurant",
+            "link": "/products",
+            "icon": "fas fa-utensils"
+        },
+        {
+            "image": "/img/categories/2.png",
+            "title": "Takeaway",
+            "text": "Order your favorite dishes for pickup",
+            "link": "/products",
+            "icon": "fas fa-shopping-bag"
+        },
+        {
+            "image": "/img/categories/3.png",
+            "title": "Delivery",
+            "text": "Get Sindhri flavors delivered to your doorstep",
+            "link": "/products",
+            "icon": "fas fa-truck"
         }
     ]
 }
